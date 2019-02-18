@@ -1,7 +1,7 @@
 +++
 # Featured Publications widget.
 # This widget displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
+# `featured = false` in their front matter.
 widget = "publications_featured"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
