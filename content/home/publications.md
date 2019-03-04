@@ -8,17 +8,17 @@ title = "Recent Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 5
 
 # Number of publications to list.
-count = 10
+count = 4
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 2
+view = 4
 
 # Filter by publication type.
 # -1: Any

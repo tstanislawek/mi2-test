@@ -2,12 +2,12 @@
 name = "Classic"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
+google_fonts = "Montserrat:400,700|Montserrat|Roboto+Mono"
 
 # Font families
-heading_font = "Lato"
-body_font = "Merriweather"
-nav_font = "Lato"
+heading_font = "Montserrat"
+body_font = "Montserrat"
+nav_font = "Montserrat"
 mono_font = "Roboto Mono"
 
 # Font size
