@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrej-Nikolai Spiess on MI2 DataLab</title>
-    <link>/authors/andrej-nikolai-spiess/</link>
+    <link>/mi2-test/authors/andrej-nikolai-spiess/</link>
     <description>Recent content in Andrej-Nikolai Spiess on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/andrej-nikolai-spiess/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mi2-test/authors/andrej-nikolai-spiess/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Enabling Reproducible Real-Time Quantitative PCR Research: The RDML Package</title>
-      <link>/publication/rodigerenablingreproduciblerealtimea/</link>
+      <link>/mi2-test/publication/rodigerenablingreproduciblerealtimea/</link>
       <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
       
-      <guid>/publication/rodigerenablingreproduciblerealtimea/</guid>
+      <guid>/mi2-test/publication/rodigerenablingreproduciblerealtimea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System-Specific Periodicity in Quantitative Real-Time Polymerase Chain Reaction Data Questions Threshold-Based Quantitation</title>
-      <link>/publication/spiesssystemspecificperiodicityquantitative2016a/</link>
+      <link>/mi2-test/publication/spiesssystemspecificperiodicityquantitative2016a/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/spiesssystemspecificperiodicityquantitative2016a/</guid>
+      <guid>/mi2-test/publication/spiesssystemspecificperiodicityquantitative2016a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of Smoothing on Parameter Estimation in Quantitative DNA Amplification Experiments</title>
-      <link>/publication/spiessimpactsmoothingparameter2015a/</link>
+      <link>/mi2-test/publication/spiessimpactsmoothingparameter2015a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/spiessimpactsmoothingparameter2015a/</guid>
+      <guid>/mi2-test/publication/spiessimpactsmoothingparameter2015a/</guid>
       <description></description>
     </item>
     

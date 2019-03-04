@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on MI2 DataLab</title>
-    <link>/member/</link>
+    <link>/mi2-test/member/</link>
     <description>Recent content in Members on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/member/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mi2-test/member/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jan Kowalski</title>
-      <link>/member/jankowalski/</link>
+      <link>/mi2-test/member/jankowalski/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/member/jankowalski/</guid>
+      <guid>/mi2-test/member/jankowalski/</guid>
       <description>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada.</description>
     </item>
     

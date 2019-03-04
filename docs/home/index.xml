@@ -2,155 +2,155 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on MI2 DataLab</title>
-    <link>/home/</link>
+    <link>/mi2-test/home/</link>
     <description>Recent content in Homes on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mi2-test/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/hero_carousel/</link>
+      <link>/mi2-test/home/hero_carousel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/hero_carousel/</guid>
+      <guid>/mi2-test/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MI&lt;sup&gt;2&lt;/sup&gt; DataLab</title>
-      <link>/home/hero/</link>
+      <link>/mi2-test/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>/mi2-test/home/hero/</guid>
       <description>Phasellus luctus massa in commodo tempor. Sed ut justo urna. Fusce auctor, nulla vitae tincidunt vehicula, lorem diam consequat augue, at ultrices mi urna eget mi. Maecenas euismod arcu efficitur augue placerat, nec ornare lacus tempor. Proin consectetur condimentum tellus, vel malesuada orci semper ornare. Donec porta erat id ultrices semper. Donec molestie, mauris ac porta gravida, nisi nisi iaculis ex, at pellentesque velit dolor a elit.</description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>/mi2-test/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>/mi2-test/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>/home/about/</link>
+      <link>/mi2-test/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>/mi2-test/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>/home/members/</link>
+      <link>/mi2-test/home/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/members/</guid>
+      <guid>/mi2-test/home/members/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>/mi2-test/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>/mi2-test/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>/home/publications/</link>
+      <link>/mi2-test/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>/mi2-test/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>/home/skills/</link>
+      <link>/mi2-test/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/skills/</guid>
+      <guid>/mi2-test/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>/home/experience/</link>
+      <link>/mi2-test/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/experience/</guid>
+      <guid>/mi2-test/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>/home/accomplishments/</link>
+      <link>/mi2-test/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/accomplishments/</guid>
+      <guid>/mi2-test/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>/home/publications_featured/</link>
+      <link>/mi2-test/home/publications_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/publications_featured/</guid>
+      <guid>/mi2-test/home/publications_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Talks</title>
-      <link>/home/talks_featured/</link>
+      <link>/mi2-test/home/talks_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks_featured/</guid>
+      <guid>/mi2-test/home/talks_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
+      <link>/mi2-test/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>/mi2-test/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>/mi2-test/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>/mi2-test/home/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>/home/tags/</link>
+      <link>/mi2-test/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/tags/</guid>
+      <guid>/mi2-test/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>/mi2-test/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>/mi2-test/home/contact/</guid>
       <description></description>
     </item>
     

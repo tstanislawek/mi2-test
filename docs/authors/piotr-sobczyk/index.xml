@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piotr Sobczyk on MI2 DataLab</title>
-    <link>/authors/piotr-sobczyk/</link>
+    <link>/mi2-test/authors/piotr-sobczyk/</link>
     <description>Recent content in Piotr Sobczyk on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/piotr-sobczyk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mi2-test/authors/piotr-sobczyk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Prediction of Signal Peptides in Proteins from Malaria Parasites</title>
-      <link>/publication/burdukiewiczpredictionsignalpeptides2018/</link>
+      <link>/mi2-test/publication/burdukiewiczpredictionsignalpeptides2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/burdukiewiczpredictionsignalpeptides2018/</guid>
+      <guid>/mi2-test/publication/burdukiewiczpredictionsignalpeptides2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amyloidogenic Motifs Revealed by N-Gram Analysis</title>
-      <link>/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</link>
+      <link>/mi2-test/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</guid>
+      <guid>/mi2-test/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Methods of Comparing Digital PCR Experiments</title>
-      <link>/publication/burdukiewiczmethodscomparingdigital2016/</link>
+      <link>/mi2-test/publication/burdukiewiczmethodscomparingdigital2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/burdukiewiczmethodscomparingdigital2016/</guid>
+      <guid>/mi2-test/publication/burdukiewiczmethodscomparingdigital2016/</guid>
       <description></description>
     </item>
     

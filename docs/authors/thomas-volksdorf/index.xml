@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Volksdorf on MI2 DataLab</title>
-    <link>/authors/thomas-volksdorf/</link>
+    <link>/mi2-test/authors/thomas-volksdorf/</link>
     <description>Recent content in Thomas Volksdorf on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/thomas-volksdorf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mi2-test/authors/thomas-volksdorf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>System-Specific Periodicity in Quantitative Real-Time Polymerase Chain Reaction Data Questions Threshold-Based Quantitation</title>
-      <link>/publication/spiesssystemspecificperiodicityquantitative2016a/</link>
+      <link>/mi2-test/publication/spiesssystemspecificperiodicityquantitative2016a/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/spiesssystemspecificperiodicityquantitative2016a/</guid>
+      <guid>/mi2-test/publication/spiesssystemspecificperiodicityquantitative2016a/</guid>
       <description></description>
     </item>
     

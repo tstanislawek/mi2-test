@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander Bohm on MI2 DataLab</title>
-    <link>/authors/alexander-bohm/</link>
+    <link>/mi2-test/authors/alexander-bohm/</link>
     <description>Recent content in Alexander Bohm on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/alexander-bohm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mi2-test/authors/alexander-bohm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Genotypic and Phenotypic Characteristics in Association with Biofilm Formation in Different Pathotypes of Human Clinical Escherichia Coli Isolates</title>
-      <link>/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
+      <link>/mi2-test/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
+      <guid>/mi2-test/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
       <description></description>
     </item>
     

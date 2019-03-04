@@ -2,255 +2,255 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on MI2 DataLab</title>
-    <link>/authors/</link>
+    <link>/mi2-test/authors/</link>
     <description>Recent content in Authors on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mi2-test/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aamir Ali</title>
-      <link>/authors/aamir-ali/</link>
+      <link>/mi2-test/authors/aamir-ali/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/aamir-ali/</guid>
+      <guid>/mi2-test/authors/aamir-ali/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexander Bohm</title>
-      <link>/authors/alexander-bohm/</link>
+      <link>/mi2-test/authors/alexander-bohm/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/alexander-bohm/</guid>
+      <guid>/mi2-test/authors/alexander-bohm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andrej-Nikolai Spiess</title>
-      <link>/authors/andrej-nikolai-spiess/</link>
+      <link>/mi2-test/authors/andrej-nikolai-spiess/</link>
       <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
       
-      <guid>/authors/andrej-nikolai-spiess/</guid>
+      <guid>/mi2-test/authors/andrej-nikolai-spiess/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anna Duda-Madej</title>
-      <link>/authors/anna-duda-madej/</link>
+      <link>/mi2-test/authors/anna-duda-madej/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/anna-duda-madej/</guid>
+      <guid>/mi2-test/authors/anna-duda-madej/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Claudia Deutschmann</title>
-      <link>/authors/claudia-deutschmann/</link>
+      <link>/mi2-test/authors/claudia-deutschmann/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/authors/claudia-deutschmann/</guid>
+      <guid>/mi2-test/authors/claudia-deutschmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dirk Roggenbuck</title>
-      <link>/authors/dirk-roggenbuck/</link>
+      <link>/mi2-test/authors/dirk-roggenbuck/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/dirk-roggenbuck/</guid>
+      <guid>/mi2-test/authors/dirk-roggenbuck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jaroslaw Chilimoniuk</title>
-      <link>/authors/jaroslaw-chilimoniuk/</link>
+      <link>/mi2-test/authors/jaroslaw-chilimoniuk/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/jaroslaw-chilimoniuk/</guid>
+      <guid>/mi2-test/authors/jaroslaw-chilimoniuk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joel Tellinghuisen</title>
-      <link>/authors/joel-tellinghuisen/</link>
+      <link>/mi2-test/authors/joel-tellinghuisen/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/joel-tellinghuisen/</guid>
+      <guid>/mi2-test/authors/joel-tellinghuisen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jorg Nitschke</title>
-      <link>/authors/jorg-nitschke/</link>
+      <link>/mi2-test/authors/jorg-nitschke/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/jorg-nitschke/</guid>
+      <guid>/mi2-test/authors/jorg-nitschke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jorg Weinreich</title>
-      <link>/authors/jorg-weinreich/</link>
+      <link>/mi2-test/authors/jorg-weinreich/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/jorg-weinreich/</guid>
+      <guid>/mi2-test/authors/jorg-weinreich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Juliane Schiebel</title>
-      <link>/authors/juliane-schiebel/</link>
+      <link>/mi2-test/authors/juliane-schiebel/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/juliane-schiebel/</guid>
+      <guid>/mi2-test/authors/juliane-schiebel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Katharina Klat</title>
-      <link>/authors/katharina-klat/</link>
+      <link>/mi2-test/authors/katharina-klat/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/authors/katharina-klat/</guid>
+      <guid>/mi2-test/authors/katharina-klat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Konstantin Blagodatskikh</title>
-      <link>/authors/konstantin-blagodatskikh/</link>
+      <link>/mi2-test/authors/konstantin-blagodatskikh/</link>
       <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
       
-      <guid>/authors/konstantin-blagodatskikh/</guid>
+      <guid>/mi2-test/authors/konstantin-blagodatskikh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MI2 Lab</title>
-      <link>/authors/mi2-lab/</link>
+      <link>/mi2-test/authors/mi2-lab/</link>
       <pubDate>Sun, 03 Mar 2019 21:53:41 +0100</pubDate>
       
-      <guid>/authors/mi2-lab/</guid>
+      <guid>/mi2-test/authors/mi2-lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Malgorzata Kotulska</title>
-      <link>/authors/malgorzata-kotulska/</link>
+      <link>/mi2-test/authors/malgorzata-kotulska/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/malgorzata-kotulska/</guid>
+      <guid>/mi2-test/authors/malgorzata-kotulska/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marcin Lukaszewicz</title>
-      <link>/authors/marcin-lukaszewicz/</link>
+      <link>/mi2-test/authors/marcin-lukaszewicz/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/marcin-lukaszewicz/</guid>
+      <guid>/mi2-test/authors/marcin-lukaszewicz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michal Burdukiewicz</title>
-      <link>/authors/michal-burdukiewicz/</link>
+      <link>/mi2-test/authors/michal-burdukiewicz/</link>
       <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
       
-      <guid>/authors/michal-burdukiewicz/</guid>
+      <guid>/mi2-test/authors/michal-burdukiewicz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michal Gaworski</title>
-      <link>/authors/michal-gaworski/</link>
+      <link>/mi2-test/authors/michal-gaworski/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/michal-gaworski/</guid>
+      <guid>/mi2-test/authors/michal-gaworski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pawel Mackiewicz</title>
-      <link>/authors/pawel-mackiewicz/</link>
+      <link>/mi2-test/authors/pawel-mackiewicz/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/pawel-mackiewicz/</guid>
+      <guid>/mi2-test/authors/pawel-mackiewicz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peter Schierack</title>
-      <link>/authors/peter-schierack/</link>
+      <link>/mi2-test/authors/peter-schierack/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/peter-schierack/</guid>
+      <guid>/mi2-test/authors/peter-schierack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Piotr Sobczyk</title>
-      <link>/authors/piotr-sobczyk/</link>
+      <link>/mi2-test/authors/piotr-sobczyk/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/piotr-sobczyk/</guid>
+      <guid>/mi2-test/authors/piotr-sobczyk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Przemyslaw Gagat</title>
-      <link>/authors/przemyslaw-gagat/</link>
+      <link>/mi2-test/authors/przemyslaw-gagat/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/przemyslaw-gagat/</guid>
+      <guid>/mi2-test/authors/przemyslaw-gagat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rafal Kolenda</title>
-      <link>/authors/rafal-kolenda/</link>
+      <link>/mi2-test/authors/rafal-kolenda/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/authors/rafal-kolenda/</guid>
+      <guid>/mi2-test/authors/rafal-kolenda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ralf Himmelreich</title>
-      <link>/authors/ralf-himmelreich/</link>
+      <link>/mi2-test/authors/ralf-himmelreich/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/authors/ralf-himmelreich/</guid>
+      <guid>/mi2-test/authors/ralf-himmelreich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slawomir Jablonski</title>
-      <link>/authors/slawomir-jablonski/</link>
+      <link>/mi2-test/authors/slawomir-jablonski/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/slawomir-jablonski/</guid>
+      <guid>/mi2-test/authors/slawomir-jablonski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stefan Rodiger</title>
-      <link>/authors/stefan-rodiger/</link>
+      <link>/mi2-test/authors/stefan-rodiger/</link>
       <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
       
-      <guid>/authors/stefan-rodiger/</guid>
+      <guid>/mi2-test/authors/stefan-rodiger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thomas Volksdorf</title>
-      <link>/authors/thomas-volksdorf/</link>
+      <link>/mi2-test/authors/thomas-volksdorf/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/thomas-volksdorf/</guid>
+      <guid>/mi2-test/authors/thomas-volksdorf/</guid>
       <description></description>
     </item>
     
