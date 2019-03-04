@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katharina Klat on MI2 DataLab</title>
+    <link>/authors/katharina-klat/</link>
+    <description>Recent content in Katharina Klat on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/katharina-klat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impact of Smoothing on Parameter Estimation in Quantitative DNA Amplification Experiments</title>
+      <link>/publication/spiessimpactsmoothingparameter2015a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/spiessimpactsmoothingparameter2015a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MI2 Lab on MI2 DataLab</title>
+    <link>/authors/mi2-lab/</link>
+    <description>Recent content in MI2 Lab on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 21:53:41 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/mi2-lab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem ipsum dolor sit amet</title>
+      <link>/post/p1/</link>
+      <pubDate>Sun, 03 Mar 2019 21:53:41 +0100</pubDate>
+      
+      <guid>/post/p1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis eros non felis sollicitudin, vulputate commodo augue ullamcorper. Donec tempor laoreet commodo. Phasellus ut urna feugiat, pellentesque neque ac, sollicitudin eros. Vivamus ac consequat est. Aenean euismod nec mi eget blandit. Fusce placerat nulla quis mi tempus pulvinar quis vitae urna. Vestibulum aliquet, turpis sit amet rhoncus consequat, ex neque condimentum lorem, nec varius elit dolor non orci. Donec hendrerit pellentesque arcu, et condimentum justo dignissim vel.</description>
+    </item>
+    
+  </channel>
+</rss>

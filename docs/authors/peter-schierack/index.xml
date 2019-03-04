@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Schierack on MI2 DataLab</title>
+    <link>/authors/peter-schierack/</link>
+    <description>Recent content in Peter Schierack on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/peter-schierack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genotypic and Phenotypic Characteristics in Association with Biofilm Formation in Different Pathotypes of Human Clinical Escherichia Coli Isolates</title>
+      <link>/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods of Comparing Digital PCR Experiments</title>
+      <link>/publication/burdukiewiczmethodscomparingdigital2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/burdukiewiczmethodscomparingdigital2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Review and Meta-Analysis of the Epidemiology of Pathogenic Escherichia Coli of Calves and the Role of Calves as Reservoirs for Human Pathogenic E. Coli</title>
+      <link>/publication/kolendasystematicreviewmetaanalysis2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kolendasystematicreviewmetaanalysis2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Smoothing on Parameter Estimation in Quantitative DNA Amplification Experiments</title>
+      <link>/publication/spiessimpactsmoothingparameter2015a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/spiessimpactsmoothingparameter2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chipPCR: An R Package to Pre-Process Raw Data of Amplification Curves</title>
+      <link>/publication/rodigerchippcrpackagepreprocess2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rodigerchippcrpackagepreprocess2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

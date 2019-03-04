@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konstantin Blagodatskikh on MI2 DataLab</title>
+    <link>/authors/konstantin-blagodatskikh/</link>
+    <description>Recent content in Konstantin Blagodatskikh on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/konstantin-blagodatskikh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enabling Reproducible Real-Time Quantitative PCR Research: The RDML Package</title>
+      <link>/publication/rodigerenablingreproduciblerealtimea/</link>
+      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rodigerenablingreproduciblerealtimea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
