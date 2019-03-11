@@ -3,7 +3,7 @@
 widget = "talks"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Recent & Upcoming Talks"
+title = "Recent Talks"
 subtitle = ""
 
 # Order that this section will appear in.
