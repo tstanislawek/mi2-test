@@ -1,12 +1,12 @@
 # Font style metadata
-name = "Montserrat"
+name = "Classic"
 
 # Optional Google font URL
-google_fonts = "Montserrat|Roboto+Mono"
+google_fonts = "Montserrat:400,700|Montserrat|Roboto+Mono"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Merriweather"
+body_font = "Montserrat"
 nav_font = "Montserrat"
 mono_font = "Roboto Mono"
 
