@@ -13,3 +13,6 @@
  - otwieranie linkow zewnetrznych w nowych oknach
  
  - napisac na slacku wymagania odnosnie publikacji i osob 
+
+ - usunac tagi
+ 
