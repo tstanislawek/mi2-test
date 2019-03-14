@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Jan Kowalski"
+title = "Adam Nowak"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -10,7 +10,7 @@ summary = "Group leader"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Deep Learning"]
+tags = []
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
