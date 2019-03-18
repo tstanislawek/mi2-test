@@ -19,6 +19,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+url_custom = [{name = "Google Scholar", url = "https://scholar.google.pl/scholar?cites=9752259422867667617"}]
 math = true
 highlight = true
 [header]
