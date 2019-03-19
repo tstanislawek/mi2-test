@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "PAnna Nowak-Kowalska"
+title = "Piotr Szczygieł"
 
 # Date this page was created.
-date = 2018-05-03T09:11:24
+date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Project member"
+summary = "Group leader"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Deep Learning"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "https://github.com/ModelOriented/iBreakDown"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
