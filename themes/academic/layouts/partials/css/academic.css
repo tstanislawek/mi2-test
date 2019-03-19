@@ -22,7 +22,7 @@ html {
 
 body {
   font-family: inherit;
-  font-size: 1rem;
+  font-size: 0.65rem;
   line-height: inherit;
   color: inherit;
   background-color: {{ .Get "background" }};
@@ -64,7 +64,7 @@ ul, ol, dl {
 /* Navigation bar text */
 .navbar-light {
   font-family: '{{ .Get "nav_font" }}', sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
@@ -72,7 +72,7 @@ ul, ol, dl {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: '{{ .Get "heading_font" }}', sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   margin-top: 1rem;
   margin-bottom: .5rem;
   line-height: 1.25;
@@ -90,21 +90,21 @@ h1, h2, h3, h4, h5, h6 {
   hyphens: manual;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 1.5rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 h3 {
-  font-weight: 700;
+  font-weight: 300;
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.0rem;
 }
 h4, h5, h6 {
-  font-weight: 700;
+  font-weight: 300;
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 0.85rem;
 }
 
 a,
@@ -536,7 +536,7 @@ a[data-fancybox] img {
  **************************************************/
 
 .hero-overlay {
-  padding: 3em 0;
+  padding: 15em 0;
   clear: both;
   background-size: cover;
   background-repeat: no-repeat;
@@ -547,21 +547,21 @@ a[data-fancybox] img {
 }
 
 .hero-title {
-  font-size: 2.7rem;
+  font-size: 2.0rem;
   margin-top: 0;
   line-height: 1;
 }
 
 .hero-lead {
   max-width: 768px;
-  font-size: 1.35rem;
+  font-size: 0.9rem;
 }
 
 .hero-overlay .hero-title,
 .hero-overlay .hero-lead,
 .hero-overlay .btn {
   color: #fff;
-  text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+  /*text-shadow: 1px 1px 4px rgba(0,0,0,0.5);*/
 }
 
 .hero-overlay a {
@@ -1549,7 +1549,7 @@ a.badge:hover {
 
 .navbar-light {
   background: {{ .Get "menu_primary" }} !important;
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
+  /*box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)*/
 }
 
 .navbar-light .navbar-toggler {
@@ -1577,7 +1577,7 @@ nav#navbar-main li.nav-item {
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: {{ .Get "menu_text" }};
-  font-weight: 600;
+  font-weight: 300;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
@@ -1594,7 +1594,7 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
   color: {{ .Get "menu_text_active" }};
-  font-weight: 700;
+  font-weight: 300;
   background-color: transparent !important; /* Override Bootstrap. */
 }
 
@@ -1622,7 +1622,7 @@ nav#navbar-main li.nav-item {
   display: block;
   padding: 3px 20px;
   clear: both;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.42857143;
   color: {{ .Get "menu_text" }};
   white-space: nowrap;
@@ -1653,7 +1653,7 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar-light .navbar-brand {
-  font-weight: bold;
+  /* font-weight: bold;*/
   font-size: 1.2em;
   color: {{ .Get "menu_title" }};
 }
@@ -1700,7 +1700,7 @@ nav#navbar-main li.nav-item {
     display: block;
     padding: 3px 20px;
     clear: both;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1.42857143;
     color: {{ .Get "menu_text" }};
     white-space: nowrap;

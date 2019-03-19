@@ -1,0 +1,15 @@
+# Font style metadata
+name = "tom_prop"
+
+# Optional Google font URL
+google_fonts = "Oswald|Lato"
+
+# Font families
+heading_font = "Oswald"
+body_font = "Lato"
+nav_font = "Oswald"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "26"
+font_size_small = "20"
