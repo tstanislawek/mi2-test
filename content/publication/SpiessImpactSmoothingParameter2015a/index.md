@@ -1,10 +1,10 @@
 +++
-title = "Impact of Smoothing on Parameter Estimation in Quantitative DNA Amplification Experiments"
-date = "2015-01-01"
+title = "Genotypic and Phenotypic Characteristics in Association with Biofilm Formation in Different Pathotypes of Human Clinical Escherichia Coli Isolates"
+date = "2017-01-01"
 publication_types = ["2"]
-authors = ["Andrej-Nikolai Spiess", "Claudia Deutschmann", "Michal Burdukiewicz", "Ralf Himmelreich", "Katharina Klat", "Peter Schierack", "Stefan Rodiger"]
-publication = "In: Clinical Chemistry, (61), 2, _pp. 379-388_, https://doi.org/10.1373/clinchem.2014.230656"
-abstract = "BACKGROUND: Quantification cycle (Cq) and amplification efficiency (AE) are parameters mathematically extracted from raw data to characterize quantitative PCR (qPCR) reactions and quantify the copy number in a sample. Little attention has been paid to the effects of preprocessing and the use of smoothing or filtering approaches to compensate for noisy data. Existing algorithms largely are taken for granted, and it is unclear which of the various methods is most informative. We investigated the effect of smoothing and filtering algorithms on amplification curve data. METHODS: We obtained published high-replicate qPCR data sets from standard block thermocyclers and other cycler platforms and statistically evaluated the impact of smoothing on Cq and AE. RESULTS: Our results indicate that selected smoothing algorithms affect estimates of Cq and AE considerably. The commonly used moving average filter performed worst in all qPCR scenarios. The Savitzky\\textendashGolay smoother, cubic splines, and Whittaker smoother resulted overall in the least bias in our setting and exhibited low sensitivity to differences in qPCR AE, whereas other smoothers, such as running mean, introduced an AE-dependent bias. CONCLUSIONS: The selection of a smoothing algorithm is an important step in developing data analysis pipelines for real-time PCR experiments. We offer guidelines for selection of an appropriate smoothing algorithm in diagnostic qPCR applications. The findings of our study were implemented in the R packages chipPCR and qpcR as a basis for the implementation of an analytical strategy."
+authors = ["Juliane Schiebel", "Alexander Bohm", "Jorg Nitschke", "Michal Burdukiewicz", "Jorg Weinreich", "Aamir Ali", "Dirk Roggenbuck", "Stefan Rodiger", "Peter Schierack"]
+publication = "In: Applied and Environmental Microbiology, _pp. AEM.01660-17_, https://doi.org/10.1128/AEM.01660-17"
+abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
@@ -19,6 +19,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+url_custom = [{name = "Google Scholar", url = "https://scholar.google.pl/scholar?cites=16825692000484483526,9752259422867667617"}]
 math = true
 highlight = true
 [header]
