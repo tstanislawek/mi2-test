@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Adam Nowak"
+title = "Tomasz Stanisławek"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2018-03-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "Group leader"
+summary = "PhD student"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+# Example: `tags = ["machine-learning", "interpretable-machine-learning"]`
+tags = ["machine-learning", "interpretable-machine-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,4 +44,4 @@ url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://g
   focal_point = "Smart"
 +++
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+About
