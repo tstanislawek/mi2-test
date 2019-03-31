@@ -41,6 +41,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
+refLinksNotFoundURL = true
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]

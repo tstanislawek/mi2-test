@@ -10,7 +10,7 @@ summary = "Group member, PhD"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "interpretable-machine-learning"]`
-tags = ["machine-learning", "interpretable-machine-learning"]
+tags = []
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,4 +44,6 @@ url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://g
   focal_point = "Smart"
 +++
 
-About
+
+
+<a href="/mi2-test2/authors/michal-burdukiewicz/">Michal Burdukiewicz's publications </a>.

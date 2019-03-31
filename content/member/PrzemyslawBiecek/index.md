@@ -47,3 +47,5 @@ url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://g
 I work as associate professor MiNI@Warsaw University of Technology and assistant professor MIM@Univeristy of Warsaw. My background is in mathematical statistics PAM@WUST and software engineering CSM@WUST.
 
 I am interested in predictive modelling of large and complex data, data visualisation and model interpretability. Research activities are mainly focused on high-throughput genetic profiling in oncology. Also I’m interested in evidence based education, evidence based medicine, general machine learning and statistical software engineering (an R enthusiast). Big believer of data-literacy.
+
+<a href="/mi2-test2/authors/przemyslaw-biecek/">Przemysław's Biecek's publications</a>.
