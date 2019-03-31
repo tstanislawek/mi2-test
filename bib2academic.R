@@ -3,63 +3,86 @@ library(dplyr)
 # adapted from: https://github.com/petzi53/bib2academic
 
 httr::set_config(httr::config(http_version = 0))
-lapply(c("pub_data/mateusz-staniak",
-         "pub_data/michal-burdukiewicz",
-         "pub_data/przemyslaw-biecek", "pub_data/tomasz-stanislawek"), function(ith_file) {
-  bib_list <- RefManageR::ReadBib(paste0(ith_file, "/citations.bib"),
-                                  check = "warn",
-                                  .Encoding = "UTF-8")
 
-  pub_df <- data.frame(bib_list) %>%
-    mutate(pubtype = case_when(bibtype == "Article" ~ "2",
-                               bibtype == "Article in Press" ~ "2",
-                               bibtype == "InProceedings" ~ "1",
-                               bibtype == "Proceedings" ~ "1",
-                               bibtype == "Conference" ~ "1",
-                               bibtype == "Conference Paper" ~ "1",
-                               bibtype == "MastersThesis" ~ "3",
-                               bibtype == "PhdThesis" ~ "3",
-                               bibtype == "Manual" ~ "4",
-                               bibtype == "TechReport" ~ "4",
-                               bibtype == "Book" ~ "5",
-                               bibtype == "InCollection" ~ "6",
-                               bibtype == "InBook" ~ "6",
-                               bibtype == "Misc" ~ "0",
-                               TRUE ~ "0"))
+scholar_df <- lapply(c("pub_data/mateusz-staniak",
+                       "pub_data/michal-burdukiewicz",
+                       "pub_data/przemyslaw-biecek",
+                       "pub_data/tomasz-stanislawek"),
+                     function(ith_file) {
+                       scholar::get_publications(last(strsplit(readLines(paste0(ith_file, "/scholar.txt")), "=")[[1]])) %>%
+                         select(title = title, cid = cid) %>%
+                         mutate(clean_title = cleanStr(tolower(title)))
+                     }) %>%
+  bind_rows() %>%
+  unique
 
+pub_df <- lapply(c("pub_data/mateusz-staniak",
+                   "pub_data/michal-burdukiewicz",
+                   "pub_data/przemyslaw-biecek",
+                   "pub_data/tomasz-stanislawek"),
+                 function(ith_file) {
+                   bib_list <- RefManageR::ReadBib(paste0(ith_file, "/citations.bib"),
+                                                   check = FALSE,
+                                                   .Encoding = "UTF-8")
 
-  scholar_df <- scholar::get_publications(last(strsplit(readLines(paste0(ith_file, "/scholar.txt")), "=")[[1]])) %>%
-    select(title = title, cid = cid) %>%
-    mutate(title = tolower(title))
+                   data.frame(bib_list) %>%
+                     mutate(pubtype = case_when(bibtype == "Article" ~ "2",
+                                                bibtype == "Article in Press" ~ "2",
+                                                bibtype == "InProceedings" ~ "1",
+                                                bibtype == "Proceedings" ~ "1",
+                                                bibtype == "Conference" ~ "1",
+                                                bibtype == "Conference Paper" ~ "1",
+                                                bibtype == "MastersThesis" ~ "3",
+                                                bibtype == "PhdThesis" ~ "3",
+                                                bibtype == "Manual" ~ "4",
+                                                bibtype == "TechReport" ~ "4",
+                                                bibtype == "Book" ~ "5",
+                                                bibtype == "InCollection" ~ "6",
+                                                bibtype == "InBook" ~ "6",
+                                                bibtype == "Misc" ~ "0",
+                                                TRUE ~ "0"),
+                            key = gsub("[/:]", "", sapply(bib_list, function(i) i$key)))
+                 }) %>%
+  bind_rows() %>%
+  mutate(clean_title = cleanStr(tolower(title))) %>%
+  filter(!duplicated(.[["clean_title"]]))
 
-  all_distances <- stringdist::stringdistmatrix(a = tolower(pub_df[["title"]]),
-                                                b = scholar_df[["title"]],
-                                                method = "jaccard", q = 5)
+all_distances <- stringdist::stringdistmatrix(a = pub_df[["clean_title"]],
+                                              b = scholar_df[["clean_title"]],
+                                              method = "jaccard", q = 5)
 
-  pub_scholar_df <- data.frame(pub_name = pub_df[["title"]],
-                               scholar_name = tolower(scholar_df[["title"]])[apply(all_distances, 1, which.min)],
-                               distance = apply(all_distances, 1, min),
-                               stringsAsFactors = FALSE)
+pub_scholar_df <- data.frame(pub_title = pub_df[["title"]],
+                             scholar_title = scholar_df[["title"]][apply(all_distances, 1, which.min)],
+                             distance = apply(all_distances, 1, min),
+                             stringsAsFactors = FALSE)
 
-  final_bib_df <- inner_join(pub_df, pub_scholar_df, by = c("title" = "pub_name")) %>%
-    inner_join(scholar_df, by = c("scholar_name" = "title"))
+final_bib_df <- select(pub_df, -clean_title) %>%
+  inner_join(pub_scholar_df, by = c("title" = "pub_title")) %>%
+  inner_join(scholar_df, by = c("scholar_title" = "title")) %>%
+  select(-clean_title, -title) %>%
+  rename(title = scholar_title)
 
-  lapply(1L:length(bib_list), function(ith_pub) {
-    filepath <- paste0("content/publication/",
-                       gsub("[/:]", "", unlist(bib_list[[ith_pub]])[["key"]]))
+RefManageR::ReadBib("pub_data/mateusz-staniak/citations.bib",
+                    check = FALSE,
+                    .Encoding = "UTF-8") %>%
+  data.frame()
 
-    dir.create(filepath)
+lapply(1L:nrow(final_bib_df), function(ith_pub) {
+  filepath <- paste0("content/publication/",
+                     gsub("[/:-]", "", final_bib_df[ith_pub, "key"]))
 
-    try(RefManageR::WriteBib(bib_list[[ith_pub]],
-                             file = paste0(filepath, "/references.bib")))
+  dir.create(filepath)
 
-    try(create_md(final_bib_df[ith_pub, ], filepath = filepath))
-  })
+  try(RefManageR::WriteBib(RefManageR::as.BibEntry(final_bib_df[ith_pub, ]),
+                           file = paste0(filepath, "/references.bib")))
+
+  try(create_md(final_bib_df[ith_pub, ], file = paste0(filepath, "/index.md")))
 })
 
 
 
-create_md <- function(x, filepath) {
+
+create_md <- function(x, file) {
   # define a date and create filename_md by appending date and bibTex key
   if (!is.na(x[["year"]])) {
     x[["date"]] <- paste0(x[["year"]], "-01-01")
@@ -67,13 +90,9 @@ create_md <- function(x, filepath) {
     x[["date"]] <- "2999-01-01"
   }
 
-  filename_md <- paste0(x[["date"]], "_", x[["key"]], ".md")
-
   # start writing
 
-
-  fileConn <- file.path(paste0(filepath, "/index.md"))
-  write("+++", fileConn)
+  write("+++", file.path(file))
 
   # title and date
   # title has sometimes with older bibTex files special characters "{}"
