@@ -92,7 +92,8 @@ create_md <- function(x, file) {
 
   # start writing
 
-  write("+++", file.path(file))
+  fileConn <- file.path(file)
+  write("+++", fileConn)
 
   # title and date
   # title has sometimes with older bibTex files special characters "{}"
