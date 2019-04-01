@@ -10,7 +10,7 @@ summary = "PhD student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "interpretable-machine-learning"]`
-tags = ["machine-learning", "interpretable-machine-learning"]
+tags = ["natural-language-processing", "machine-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -45,3 +45,7 @@ url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://g
 +++
 
 About
+
+I work science 2014 in [Applica](https://www.applica.ai/) company in which I try to resolve business problems related to information extraction task. In October 2017 I started PhD at MiNI@Warsaw University of Technology.
+
+I am interested in natural language processing (especially information extraction) of large and complex data and machine learning in general. My current research activities are mainly focused on improving Named Entity Recognition task. 
